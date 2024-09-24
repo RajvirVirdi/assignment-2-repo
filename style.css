@@ -26,4 +26,18 @@ h2 {
 
 table {
     border: 1px, black;
+    border-color: black;
+    margin: 20px;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
 }
