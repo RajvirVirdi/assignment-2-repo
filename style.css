@@ -41,3 +41,7 @@ p {
 footer {
     text-align: center;
 }
+
+body {
+    background-color: gainsboro;
+}
